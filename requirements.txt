@@ -2,3 +2,4 @@ streamlit
 pandas
 plotly
 nba-api
+SQLAlchemy>=2.0
